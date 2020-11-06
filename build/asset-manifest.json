@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quint-task/static/css/main.6d05c48c.chunk.css",
+    "main.js": "/quint-task/static/js/main.29ec454b.chunk.js",
+    "main.js.map": "/quint-task/static/js/main.29ec454b.chunk.js.map",
+    "runtime-main.js": "/quint-task/static/js/runtime-main.161bdae0.js",
+    "runtime-main.js.map": "/quint-task/static/js/runtime-main.161bdae0.js.map",
+    "static/js/2.f2487374.chunk.js": "/quint-task/static/js/2.f2487374.chunk.js",
+    "static/js/2.f2487374.chunk.js.map": "/quint-task/static/js/2.f2487374.chunk.js.map",
+    "static/js/3.a67d0df1.chunk.js": "/quint-task/static/js/3.a67d0df1.chunk.js",
+    "static/js/3.a67d0df1.chunk.js.map": "/quint-task/static/js/3.a67d0df1.chunk.js.map",
+    "index.html": "/quint-task/index.html",
+    "static/css/main.6d05c48c.chunk.css.map": "/quint-task/static/css/main.6d05c48c.chunk.css.map",
+    "static/js/2.f2487374.chunk.js.LICENSE.txt": "/quint-task/static/js/2.f2487374.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.161bdae0.js",
+    "static/js/2.f2487374.chunk.js",
+    "static/css/main.6d05c48c.chunk.css",
+    "static/js/main.29ec454b.chunk.js"
+  ]
+}
